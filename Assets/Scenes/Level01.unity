@@ -16194,10 +16194,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   enemyPrefabs:
-  - {fileID: 861207537410870808, guid: 642a90fe5d54534418075a942bcb6cd8, type: 3}
   - {fileID: 6908188531779978213, guid: 0783ee085f24b294ea2cc5d5d2043478, type: 3}
-  - {fileID: 5687580097800000173, guid: d5a363d93ae1c414cb08639d728a6919, type: 3}
+  - {fileID: 861207537410870808, guid: 642a90fe5d54534418075a942bcb6cd8, type: 3}
   - {fileID: 8688778460973095546, guid: 984f385bb2dc3974a85f0acfe38f0c5d, type: 3}
+  - {fileID: 5687580097800000173, guid: d5a363d93ae1c414cb08639d728a6919, type: 3}
 --- !u!1001 &862290362
 PrefabInstance:
   m_ObjectHideFlags: 0
