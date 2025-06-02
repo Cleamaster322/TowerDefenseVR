@@ -3190,11 +3190,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 233aeadb475094d4b8becbb85d936d9a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  mainCamera: {fileID: 0}
-  minScale: 0.5
-  maxScale: 2
-  minDistance: 2
-  maxDistance: 20
 --- !u!1 &2539106090479362266
 GameObject:
   m_ObjectHideFlags: 0

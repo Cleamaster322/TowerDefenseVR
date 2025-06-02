@@ -10,6 +10,7 @@ public class BuildController : MonoBehaviour {
     public GameObject smallTowerPrefab;
     public GameObject rapidTowerPrefab;
     public GameObject laserTowerPrefab;
+	public GameObject mushroomTowerPrefab;
     public Camera cam;
     private GameObject dragTarget;
     private Vector3 spawnPosition;
